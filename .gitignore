@@ -1,0 +1,6 @@
+node_modules/
+tmp*.txt
+tmp*.js
+original.txt
+prompt.txt
+.DS_Store
